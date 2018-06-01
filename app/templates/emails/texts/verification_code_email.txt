@@ -1,0 +1,2 @@
+Your verification code for RDoList is: {{ code }}
+Note: This code will be valid for next 1 hour. You can use this code to confirm your email and reset your account password.
